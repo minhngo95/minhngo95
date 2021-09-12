@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I graduated with a major in software engineering, but I have a passion for business, now I realize that making games is a real love**
 
-
+![alt](http://github.com/CodexploreRepo/CodexploreRepo/blob/master/.github/assets/coding.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
