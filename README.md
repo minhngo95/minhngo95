@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **I graduated with a major in software engineering, but I have a passion for business, now I realize that making games is a real love**
 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@gooner_minh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@gooner_minh" height="30" width="40" /></a>
